@@ -10,6 +10,8 @@ Lathwal, A., Kumar, R., & Raghava, G. P. S. (2021).
 **In-silico identification of subunit vaccine candidates against lung cancer-associated oncogenic viruses.** *Computers in Biology and Medicine*, 130, 104215. 
 [https://doi.org/10.1016/j.compbiomed.2021.104215](https://doi.org/10.1016/j.compbiomed.2021.104215)
 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20067189
+
 ## About the Database
 
 VLCvirus provides computationally validated, epitope-based subunit vaccine candidates utilizing a reverse vaccinology approach. The database focuses on predicting specific pathogenic components capable of inducing both humoral and cell-mediated immunity without triggering a self-immune response. 
